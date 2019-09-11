@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "django",
+    "password": "django",
+    "database": "sabios_apps",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "define": {
+      "timestamps": true
+    }
+  },
+  "test": {
+    "username": "django",
+    "password": "django",
+    "database": "sabios_apps",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "define": {
+      "timestamps": true
+    }
+  },
+  "production": {
+    "username": "django",
+    "password": "django",
+    "database": "sabios_apps",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "define": {
+      "timestamps": true
+    }
+  }
+}
